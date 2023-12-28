@@ -1,0 +1,12 @@
+
+Y
+java:S2583"CChange this condition so that it does not always evaluate to "true"(―μνν
+Z
+java:S2583"DChange this condition so that it does not always evaluate to "false"(ρ’Ό
+N	java:S106"9Replace this use of System.out or System.err by a logger.(α»¶χ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ρ’Ό
+N	java:S106"9Replace this use of System.out or System.err by a logger.(―μνν
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ο™“ώÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(γ³Δ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(½κή³
+X	java:S125"<This block of commented-out lines of code should be removed.(λΎΡ8 ΡΪηΩ0

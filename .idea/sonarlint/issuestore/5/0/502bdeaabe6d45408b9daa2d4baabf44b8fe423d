@@ -1,0 +1,15 @@
+
+i
+java:S3655"NCall "flatmap.isPresent()" or "!flatmap.isEmpty()" before accessing the value.(™¤úúÿÿÿÿ
+\
+java:S3655	"FCall "map.isPresent()" or "!map.isEmpty()" before accessing the value.(¿èÁ
+N	java:S106	"9Replace this use of System.out or System.err by a logger.(¿èÁ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ÔŸ± 
+S	java:S106"9Replace this use of System.out or System.err by a logger.(™¤úúÿÿÿÿ
+V
+java:S1612"@Replace this lambda with method reference 'System.out::println'.(íÀÆ 
+N	java:S106"9Replace this use of System.out or System.err by a logger.(íÀÆ 
+[
+java:S1612"@Replace this lambda with method reference 'System.out::println'.(ûÏ¥Ÿúÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ûÏ¥Ÿúÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ûÏ¥Ÿúÿÿÿÿ
